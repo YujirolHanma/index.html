@@ -27,9 +27,6 @@
     width: 100%;
     padding: 0;
   background-image: linear-gradient(#434343  , #000000);
-  body {
-
-  }
 }
 img {    
     justify-content: center;
