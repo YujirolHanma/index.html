@@ -1,0 +1,130 @@
+<head>
+    <!--  meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,
+            initial-scale=1, shrink-to-fit=no">
+ 
+    <link rel="stylesheet" href="index.css">
+ 
+    <!-- css added from bootstrap/helped by friend -->
+    <link rel="stylesheet" href=
+"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity=
+"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+ 
+    <title>Tandoori Nights</title>
+</head>
+ 
+<body>
+ 
+    <!-- navbar code  -->
+    <nav>
+        <ul class="nav-flex-row">
+            <li class="nav-item">
+                <a href="#about">About</a>
+            </li>
+            <li class="nav-item">
+                <a href="#reservation">Reservation</a>
+            </li>
+            <li class="nav-item">
+                <a href="#menu">Menu</a>
+            </li>
+            <li class="nav-item">
+                <a href="#contact">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
+    <section class="section-intro">
+        <header>
+            <h1> Welcome To Tandoori Nights
+                </h1>
+          
+        </header>
+      <body>  
+        
+      </body>
+        <div class="link-to-reservations">
+            <a class="link-to-reserv"
+                href="#reservations">Book a table</a>
+        </div>
+    </section>
+ 
+    <section class="about-section">
+        <article>
+            <h3>
+                AT Tandoori Nights WE SERVE AUTHENTIC INDIAN FOOD PREPARED USING TRADITIONAL METHODS OF COOKING. WE ARE ABOUT STAPLE INDIAN CURRIES, TANDOORI BREADS AND INDIAN RICE PREPARATIONS.
+            </h3>
+ 
+             
+<p>
+ WE HAVE A GORGEOUS DINING ROOM WITH VIBRANT COLORS, AND DECORS THAT WILL BRING BACK AN INDIAN FEELING FROM HOME AND ENSURE A MEMORABLE INDIAN FOOD DINING EXPERIENCE.
+
+            </p>
+ 
+        </article>
+    </section>
+ 
+<img src="https://images.pexels.com/photos/10580198/pexels-photo-10580198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Italian Trulli">
+ 
+    <div class="container">
+        <div class="row-flex">
+            <div class="flex-column-form">
+                <h3>
+                    Make a booking
+                </h3>
+                <form class="media-centered">
+                    <div class="form-group">
+                         
+<p>
+                            Please leave your number we will
+                            call to make a reservation
+                        </p>
+ 
+                         
+                        <input type="name" class="form-control"
+                            id="exampleInputName1"
+                            aria-describedby="nameHelp"
+                            placeholder="Enter your name">
+                    </div>
+                    <div class="form-group">
+                        <input type="number" class="form-control"
+                            id="exampleInputphoneNumber1"
+                            placeholder="Enter your phone number">
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        Submit
+                    </button>
+                </form>
+            </div>
+            <div class="opening-time">
+                <h3>
+                    Opening times
+                </h3>
+                 
+<p>
+                    <span>Monday—Thursday: 10:00 — 22:00</span>
+                    <span>Friday—Saturday: 10:00 — 23:00 </span>
+                    <span>Sunday: 9:00 — 22:00</span>
+                </p>
+ 
+            </div>
+            <div class="contact-address">
+                <h3>
+                    Contact
+                </h3>
+                 
+<p>
+                    <span>101-4851</span>
+                    <span>Westwinds Dr NE</span>
+                    <span>Calgary AB, T3J4L4 Canada</span>
+                </p>
+ 
+            </div>
+        </div>
+    </div>
+ <div class="copyright">
+ <p>Copyright &copy; Tandoori Nights Limited 2022</p>
+  </div>
+</body>
+ 
