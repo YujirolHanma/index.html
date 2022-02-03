@@ -263,7 +263,7 @@ a.link-to-reserv:hover {
         </article>
     </section>
  
-<img src="https://images.pexels.com/photos/10580198/pexels-photo-10580198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Italian Trulli">
+<img src="https://images.pexels.com/photos/10580198/pexels-photo-10580198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="indian food">
  
     <div class="container">
         <div class="row-flex">
